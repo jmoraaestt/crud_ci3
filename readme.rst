@@ -1,8 +1,8 @@
-# CRUD com CodeIgniter 3
+CRUD com CodeIgniter 3
 
 Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido com **PHP** e o framework **CodeIgniter 3**, utilizando um banco de dados **MySQL**. Foi construído como prática para gerenciar registros de forma eficiente e simples.
 
-## 📚 Tecnologias utilizadas
+📚 Tecnologias utilizadas
 
 - [PHP](https://www.php.net/)
 - [CodeIgniter 3](https://codeigniter.com/)
@@ -10,7 +10,7 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido com **PHP
 - HTML5 + CSS3
 - Bootstrap 
 
-## 🚀 Funcionalidades
+🚀 Funcionalidades
 
 - Cadastro de registros
 - Edição de registros
