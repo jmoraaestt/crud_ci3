@@ -15,5 +15,4 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) desenvolvido com **PHP
 - Cadastro de registros
 - Edição de registros
 - Exclusão de registros
-- Listagem com paginação
-- Integração com banco de dados via Active Record do CodeIgniter
+
